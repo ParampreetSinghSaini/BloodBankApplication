@@ -1,0 +1,56 @@
+C:\Users\pc\source\repos\blood bank\bin\Debug\blood bank.exe.config
+C:\Users\pc\source\repos\blood bank\bin\Debug\blood bank.exe
+C:\Users\pc\source\repos\blood bank\bin\Debug\blood bank.pdb
+C:\Users\pc\source\repos\blood bank\bin\Debug\CircularProgressBar.dll
+C:\Users\pc\source\repos\blood bank\bin\Debug\Guna.UI2.dll
+C:\Users\pc\source\repos\blood bank\bin\Debug\WinFormAnimation.dll
+C:\Users\pc\source\repos\blood bank\bin\Debug\CircularProgressBar.xml
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood bank.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.splash.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.login.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.Properties.Resources.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood bank.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood bank.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood bank.csproj.CopyComplete
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood bank.exe
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood bank.pdb
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.Mainform.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.BloodStock.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.BloodTranser.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.Dashboard.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.Donor.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.patient.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.ViewDonor.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.ViewPatients.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.DonateBlood.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.Employee.resources
+C:\Users\pc\source\repos\blood bank\obj\Debug\blood_bank.AdminLogin.resources
+D:\blood bank\bin\Debug\blood bank.exe.config
+D:\blood bank\bin\Debug\blood bank.exe
+D:\blood bank\bin\Debug\blood bank.pdb
+D:\blood bank\bin\Debug\CircularProgressBar.dll
+D:\blood bank\bin\Debug\Guna.UI2.dll
+D:\blood bank\bin\Debug\WinFormAnimation.dll
+D:\blood bank\bin\Debug\CircularProgressBar.xml
+D:\blood bank\obj\Debug\blood bank.csproj.AssemblyReference.cache
+D:\blood bank\obj\Debug\blood bank.csproj.SuggestedBindingRedirects.cache
+D:\blood bank\obj\Debug\blood_bank.AdminLogin.resources
+D:\blood bank\obj\Debug\blood_bank.BloodStock.resources
+D:\blood bank\obj\Debug\blood_bank.BloodTranser.resources
+D:\blood bank\obj\Debug\blood_bank.Dashboard.resources
+D:\blood bank\obj\Debug\blood_bank.DonateBlood.resources
+D:\blood bank\obj\Debug\blood_bank.Donor.resources
+D:\blood bank\obj\Debug\blood_bank.Employee.resources
+D:\blood bank\obj\Debug\blood_bank.Mainform.resources
+D:\blood bank\obj\Debug\blood_bank.patient.resources
+D:\blood bank\obj\Debug\blood_bank.splash.resources
+D:\blood bank\obj\Debug\blood_bank.login.resources
+D:\blood bank\obj\Debug\blood_bank.Properties.Resources.resources
+D:\blood bank\obj\Debug\blood_bank.ViewDonor.resources
+D:\blood bank\obj\Debug\blood_bank.ViewPatients.resources
+D:\blood bank\obj\Debug\blood bank.csproj.GenerateResource.cache
+D:\blood bank\obj\Debug\blood bank.csproj.CoreCompileInputs.cache
+D:\blood bank\obj\Debug\blood bank.csproj.CopyComplete
+D:\blood bank\obj\Debug\blood bank.exe
+D:\blood bank\obj\Debug\blood bank.pdb
